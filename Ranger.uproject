@@ -92,12 +92,18 @@
 		{
 			"Name": "OnlineSubsystemSteam",
 			"Enabled": true
+		},
+		{
+			"Name": "CommonUI",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
 		"Linux",
 		"Mac",
 		"Windows",
-		"WindowsNoEditor"
+		"WindowsNoEditor",
+		"Android",
+		"IOS"
 	]
 }
