@@ -100,6 +100,11 @@
 		{
 			"Name": "SunPosition",
 			"Enabled": true
+		},
+		{
+			"Name": "RadarChart",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/58ae23f808924ba9984f77dfcf567a65"
 		}
 	],
 	"TargetPlatforms": [
